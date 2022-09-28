@@ -1,0 +1,69 @@
+.banner {
+	background: url("img/banner\ gema\ pelangi.jpg")
+	  no-repeat center center;
+	background-size: cover;
+	padding-top: 50%;
+	padding-bottom: 40%;
+	color: #fff;
+}
+
+footer {
+	height: 70px;
+	background-color: black;
+	margin-top: 2rem;
+}
+
+.wa {
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	z-index: 5;
+}
+.ig {
+	position: fixed;
+	left: 20px;
+	bottom: 20px;
+	z-index: 5;
+}
+
+
+
+.le-btn {
+	position: absolute;
+	left: 43vw;
+	top: 20px;
+	/* transition-delay: 400ms; */
+}
+
+/* .show-it {
+	transform: translate(100%, 0);
+} */
+
+.nav-con {
+	position: fixed;
+	z-index: 999;
+	background-color: #fff;
+	width: 50vw;
+	height: 100vh;
+	left: -55%;
+	transition: .4s;
+	/* transform: translate(-100%, 0); */
+
+}
+
+
+/* @media screen and (min-width: 600px) {
+	.nav-con {
+		width: 35vw;
+	}
+} */
+
+
+/* .men {
+	font-size: 20px;
+	margin-bottom: 10px;
+} */
+
+/* .leftit {
+	transform: translate(800px, 10px);
+} */

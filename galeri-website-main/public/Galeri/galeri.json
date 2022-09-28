@@ -1,0 +1,13 @@
+[
+    {"img": "./img/terbaru.jpg", "desc": "Lorep ipsum dolor sit amet"},
+    {"img": "./img/terbaru2.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru3.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru4.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru5.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru6.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru7.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru8.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru9.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru10.jpg", "desc": "Lorem ipsum dolor sit amet"},
+    {"img": "./img/terbaru11.jpg", "desc": "Lorem ipsum dolor sit amet"}
+]
