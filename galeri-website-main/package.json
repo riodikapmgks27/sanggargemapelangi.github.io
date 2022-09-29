@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyoga-dev/heroku-test.git"
+    "url": "https://github.com/riodikapmgks27/sanggargemapelangi.github.io/tree/master"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hyoga-dev/heroku-test/issues"
+    "url": "https://github.com/riodikapmgks27/sanggargemapelangi.github.io/tree/master"
   },
-  "homepage": "https://github.com/hyoga-dev/heroku-test#readme",
+  "homepage": "https://github.com/riodikapmgks27/sanggargemapelangi.github.io/tree/master",
   "description": "",
   "engines": {
     "node": "16.16.0"
